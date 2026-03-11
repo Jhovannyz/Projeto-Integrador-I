@@ -1,12 +1,14 @@
-# Projeto-Integrador-I---ADS
+# Projeto-Integrador-I
 
-![Status do Projeto](https://img.shields.io)
-![Linguagem](https://img.shields.io)
+![Status do Projeto](https://img.shields.io/badge/Status-Em_Desenvolvimento-green)
+![Linguagem Principal](https://img.shields.io/badge/Linguagem-JavaScript-f7df1e?logo=javascript&logoColor=black)
 
 ## 📌 Descrição
-Este repositório contém o código-fonte desenvolvido para o Projeto Integrador I do curso de Análise e Desenvolvimento de Sistemas. O objetivo do projeto foi desenvolver um(a) **[sistema/página web/aplicativo]** focado em **[solucionar/automatizar]** o problema de **[descreva o problema brevemente]** para o público/empresa **[público alvo]**.
+Este repositório contém o código-fonte desenvolvido para a disciplina de **Projeto Integrador I** do curso de **Análise e Desenvolvimento de Sistemas (ADS)** da [Nome da sua Instituição]. 
 
-A solução foca em entregar um sistema funcional com funcionalidades de [ex: cadastro, login, busca, etc].
+O objetivo principal deste projeto foi desenvolver um(a) **[sistema / página web / aplicativo]** focado em resolver o problema de **[descreva o problema brevemente, ex: gestão manual e ineficiente de estoque]** para **[público-alvo / empresa, ex: pequenos comerciantes locais]**. 
+
+A solução proposta visa automatizar processos, reduzir erros operacionais e entregar uma experiência intuitiva, aplicando na prática os conceitos de lógica de programação, banco de dados e engenharia de software estudados no semestre.
 
 ## 🚀 Funcionalidades
 - [ ] Funcionalidade 1: Cadastro de usuários/produtos.
