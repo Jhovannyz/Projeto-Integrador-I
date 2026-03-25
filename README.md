@@ -4,11 +4,11 @@
 ![Linguagem Principal](https://img.shields.io/badge/Linguagem-JavaScript-f7df1e?logo=javascript&logoColor=black)
 
 ## 📌 Descrição
-Este repositório contém o código-fonte desenvolvido para a disciplina de **Projeto Integrador I** do curso de **Análise e Desenvolvimento de Sistemas (ADS)** da [Nome da sua Instituição]. 
+Este repositório contém o código-fonte desenvolvido para a disciplina de **Projeto Integrador I** do curso de **Análise e Desenvolvimento de Sistemas (ADS)** da [Centro de Ensino Unificado de Brasília]. 
 
-O objetivo principal deste projeto foi desenvolver um(a) **[sistema / página web / aplicativo]** focado em resolver o problema de **[descreva o problema brevemente, ex: gestão manual e ineficiente de estoque]** para **[público-alvo / empresa, ex: pequenos comerciantes locais]**. 
+Identificamos que a administração de um **Grêmio Estudantil** envolve diversos desafios organizacionais. Para solucionar isso, criamos uma **[página web / aplicativo]** voltada para [público-alvo: Escola Paulo Freire].
 
-A solução proposta visa automatizar processos, reduzir erros operacionais e entregar uma experiência intuitiva, aplicando na prática os conceitos de lógica de programação, banco de dados e engenharia de software estudados no semestre.
+O sistema atua como um facilitador diário, automatizando tarefas burocráticas, mitigando erros operacionais e garantindo uma interface amigável. O desenvolvimento desta solução consolidou nosso aprendizado prático em lógica de programação, estruturação de banco de dados e práticas ágeis de engenharia de software.
 
 ## 🚀 Funcionalidades
 - [ ] Funcionalidade 1: Cadastro de usuários/produtos.
