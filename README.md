@@ -25,6 +25,6 @@ O sistema atua como um facilitador diário, automatizando tarefas burocráticas,
 ## 👥 Equipe
 - [Giovani Silva] - [Jhovannyz]
 - [Lucas de Jesus] - [LucasJesusSV]
-- [Gustavo Barbosa] - [gustavob63]
+- [Gustavo Barbosa] - [GustwvoB]
 - [Guilherme Krinski] - [Guilhermekrinski]
 - [Fred Gabriel] - [DevFredCardoso]
