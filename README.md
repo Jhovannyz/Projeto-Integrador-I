@@ -27,4 +27,4 @@ O sistema atua como um facilitador diário, automatizando tarefas burocráticas,
 - [Lucas de Jesus] - [LucasJesusSV]
 - [Gustavo Barbosa] - [GustwvoB]
 - [Guilherme Krinski] - [Guilhermekrinski]
-- [Fred Gabriel Pinto] - [DevFredCardoso]
+- [Fred Gabriel ] - [DevFredCardoso]
