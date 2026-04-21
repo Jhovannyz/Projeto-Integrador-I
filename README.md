@@ -15,9 +15,10 @@
 
 - [Sobre o Projeto](#sobre-o-projeto)
 - [Funcionalidades](#funcionalidades)
-- [Tecnologias](#tecnologias)
+- [Telas do Protótipo](#telas-do-prototipo)
 - [Como Executar](#como-executar)
 - [Estrutura do Projeto](#estrutura-do-projeto)
+- [Tecnologias](#tecnologias)
 - [Equipe](#equipe)
 - [Métricas de Sucesso](#métricas-de-sucesso)
 - [Documentação](#documentacao-disponivel-em)
@@ -70,33 +71,23 @@ Uma **Plataforma Web Mobile-First** leve, acessível por QR Code, que oferece:
 
 ---
 
+## 📱 Telas do Protótipo
+
+| Login | Mural de Avisos | Votação |
+|-------|-----------------|---------|
+| ![Login](docs/images/login.png) | ![Mural](docs/images/mural.png) | ![Votação](docs/images/votacao.png) |
+
+---
+
 ## 🚀 Como Executar
 
-> **Pré-requisitos:** Node.js, npm e Git instalados.
-
-```bash
-# Clone o repositório
-git clone https://github.com/Jhovannyz/Projeto-Integrador-I.git
-
-# Acesse a pasta do projeto
-cd Projeto-Integrador-I
-
-# Instale as dependências
-npm install
-
-# Execute o projeto em modo de desenvolvimento
-npm run dev
-```
-
-Acesse `http://localhost:3000` no navegador.
+> **Em Breve!**
 
 ---
 
 ## 📁 Estrutura do Projeto
 
-```
-Em Breve!
-```
+> **Em Breve!**
 
 ---
 
