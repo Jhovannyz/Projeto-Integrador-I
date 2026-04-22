@@ -97,7 +97,7 @@ Uma **Plataforma Web Mobile-First** leve, acessível por QR Code, que oferece:
 
 Este projeto foi desenvolvido utilizando metodologias ágeis (**Scrum**) e foco no usuário (**Design Thinking**), com as seguintes ferramentas:
 
-- **Figma** — Prototipagem e validação de UX ([ver protótipo](https://sharp-set-73507180.figma.site/login))
+- **Figma** — Prototipagem e validação de UX
 - **GitHub** — Controle de versão e colaboração
 - **Miro** — Quadro Kanban para gestão de tarefas
 
