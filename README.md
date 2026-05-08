@@ -42,16 +42,16 @@ A plataforma substitui esses processos manuais por um **hub digital centralizado
 
 Uma **Plataforma Web Mobile-First** leve, acessível por QR Code, que oferece:
 
-- ✅ Mural de avisos oficial do Grêmio
-- ✅ Urna eletrônica com validação por matrícula
-- ✅ Canal de ouvidoria estruturado
-- ✅ Painel administrativo com relatórios em PDF
+- Mural de avisos oficial do Grêmio
+- Urna eletrônica com validação por matrícula
+- Canal de ouvidoria estruturado
+- Painel administrativo com relatórios em PDF
 
 ---
 
 ## ✨ Funcionalidades
 
-### 👤 Módulo do Aluno
+### Módulo do Aluno
 | Funcionalidade | Descrição |
 |---|---|
 | Login por Matrícula | Acesso validado pelo número de matrícula escolar |
@@ -60,7 +60,7 @@ Uma **Plataforma Web Mobile-First** leve, acessível por QR Code, que oferece:
 | Bloqueio de Voto Duplo | Cada matrícula registra apenas um voto por pauta |
 | Comprovante de Participação | Confirmação visual imediata após o voto |
 
-### 🛠️ Módulo do Administrador (Grêmio)
+### Módulo do Administrador (Grêmio)
 | Funcionalidade | Descrição |
 |---|---|
 | Painel Administrativo | Área restrita de gestão da plataforma |
@@ -121,11 +121,13 @@ Projeto desenvolvido no **3º Semestre de ADS — UniCEUB**, sob orientação da
 
 ## 📊 Métricas de Sucesso do MVP
 
-- 🎯 **60%** de participação dos alunos na primeira votação oficial
-- 📰 **100%** das notícias oficiais centralizadas na plataforma
-- ⚡ Resultado de votações divulgado em **instantes** (vs. dias no modelo manual)
-- ⭐ Avaliação mínima de **4/5 estrelas** na pesquisa de satisfação pós-lançamento
-- 🔁 **50%** dos alunos acessando o mural semanalmente
+- **60%** de participação dos alunos na primeira votação realizada na escola parceira.
+- **100%** das notícias oficiais centralizadas na plataforma
+- Página de avisos carregando em menos de **2 segundos** em conexão 4G.
+- Pelo menos **70%** dos alunos que testarem o sistema avaliando a experiência como boa ou ótima em questionário pós-uso.
+- Interface funcionando corretamente em dispositivos com tela entre **320px e 768px**.
+- **Zero ocorrências** de votos duplicados ou perdidos durante os testes.
+- **50%** dos alunos acessando o mural semanalmente.
 
 ---
 
