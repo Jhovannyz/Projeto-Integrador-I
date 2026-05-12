@@ -1,6 +1,6 @@
 # 🏫 Grêmio Digital
 
-> Plataforma web que moderniza a gestão do Grêmio Estudantil em escolas públicas — comunicação centralizada, votação segura e transparente, tudo na palma da mão
+> Plataforma web que moderniza a gestão do Grêmio Estudantil em escolas públicas — comunicação centralizada, votação segura e transparente, tudo na palma da mão.
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow" alt="Status"/>
@@ -51,7 +51,7 @@ Uma **Plataforma Web Mobile-First** leve, acessível por QR Code, que oferece:
 
 ## ✨ Funcionalidades
 
-### Módulo do Aluno
+### 👤 Módulo do Aluno
 | Funcionalidade | Descrição |
 |---|---|
 | Login por Matrícula | Acesso validado pelo número de matrícula escolar |
@@ -60,7 +60,7 @@ Uma **Plataforma Web Mobile-First** leve, acessível por QR Code, que oferece:
 | Bloqueio de Voto Duplo | Cada matrícula registra apenas um voto por pauta |
 | Comprovante de Participação | Confirmação visual imediata após o voto |
 
-### Módulo do Administrador (Grêmio)
+### 🛠️ Módulo do Administrador (Grêmio)
 | Funcionalidade | Descrição |
 |---|---|
 | Painel Administrativo | Área restrita de gestão da plataforma |
@@ -131,7 +131,7 @@ Projeto desenvolvido no **3º Semestre de ADS — UniCEUB**, sob orientação da
 
 ---
 
-## 📄 Documentação Disponível em:
+## 📄 Documentação do Projeto:
 
 > **[Grêmio Digital Documentação](##)**
 
