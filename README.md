@@ -51,7 +51,7 @@ Uma **Plataforma Web Mobile-First** leve, acessível por QR Code, que oferece:
 
 ## ✨ Funcionalidades
 
-### 👤 Módulo do Aluno
+### Módulo do Aluno
 | Funcionalidade | Descrição |
 |---|---|
 | Login por Matrícula | Acesso validado pelo número de matrícula escolar |
@@ -60,7 +60,7 @@ Uma **Plataforma Web Mobile-First** leve, acessível por QR Code, que oferece:
 | Bloqueio de Voto Duplo | Cada matrícula registra apenas um voto por pauta |
 | Comprovante de Participação | Confirmação visual imediata após o voto |
 
-### 🛠️ Módulo do Administrador (Grêmio)
+### Módulo do Administrador (Grêmio)
 | Funcionalidade | Descrição |
 |---|---|
 | Painel Administrativo | Área restrita de gestão da plataforma |
