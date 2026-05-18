@@ -29,7 +29,7 @@
 
 O **Grêmio Digital** nasceu de uma observação simples: alunos conectados o tempo todo, mas a comunicação oficial da escola ainda presa em cartazes de papel e grupos de WhatsApp lotados.
 
-A plataforma substitui esses processos manuais por um **hub digital centralizado** — acessível diretamente pelo navegador via QR Code, sem necessidade de instalação. O projeto foi desenvolvido como Projeto Integrador I no **Centro Universitário de Brasília (UniCEUB)**, curso de Análise e Desenvolvimento de Sistemas, 3º Semestre.
+A plataforma substitui esses processos manuais por um **hub digital centralizado**, acessível diretamente pelo navegador via QR Code, sem necessidade de instalação. O projeto foi desenvolvido como Projeto Integrador I no **Centro Universitário de Brasília (UniCEUB)**, curso de Análise e Desenvolvimento de Sistemas, 3º Semestre.
 
 ### O Problema
 
