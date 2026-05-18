@@ -11,7 +11,7 @@
 
 ---
 
-## 📋 Sumário
+## Sumário
 
 - [Sobre o Projeto](#sobre-o-projeto)
 - [Funcionalidades](#funcionalidades)
@@ -49,7 +49,7 @@ Uma **Plataforma Web Mobile-First** leve, acessível por QR Code, que oferece:
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 ### Módulo do Aluno
 | Funcionalidade | Descrição |
@@ -71,7 +71,7 @@ Uma **Plataforma Web Mobile-First** leve, acessível por QR Code, que oferece:
 
 ---
 
-## 📱 Telas do Protótipo
+## Telas do Protótipo
 
 > **[Protótipo Desenvolvido no Figma](https://sharp-set-73507180.figma.site/login)**
 
@@ -81,7 +81,7 @@ Uma **Plataforma Web Mobile-First** leve, acessível por QR Code, que oferece:
 
 ---
 
-## 🚀 Como Executar
+## Como Executar
 
 > **Em Breve!**
 
@@ -93,7 +93,7 @@ Uma **Plataforma Web Mobile-First** leve, acessível por QR Code, que oferece:
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 Este projeto foi desenvolvido utilizando metodologias ágeis (**Scrum**) e foco no usuário (**Design Thinking**), com as seguintes ferramentas:
 
@@ -119,7 +119,7 @@ Projeto desenvolvido no **3º Semestre de ADS — UniCEUB**, sob orientação da
 
 ---
 
-## 📊 Métricas de Sucesso do MVP
+## Métricas de Sucesso do MVP
 
 - **60%** de participação dos alunos na primeira votação realizada na escola parceira.
 - **100%** das notícias oficiais centralizadas na plataforma.
