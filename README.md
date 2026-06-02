@@ -99,7 +99,7 @@ Este projeto foi desenvolvido utilizando metodologias ágeis (**Scrum**) e foco 
 
 - **Figma** — Prototipagem e validação de UX
 - **GitHub** — Controle de versão e colaboração
-- **Miro** — Quadro Kanban para gestão de tarefas
+- **GitHub Projects** — Quadro Kanban para gestão de tarefas
 
 > As tecnologias de desenvolvimento (linguagem, framework, banco de dados) serão documentadas aqui conforme o projeto avança.
 
