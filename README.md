@@ -25,27 +25,35 @@
 
 ---
 
-## 📖 Sobre o Projeto
+##  Sobre o Projeto
 
-O **Grêmio Digital** nasceu de uma observação simples: alunos conectados o tempo todo, mas a comunicação oficial da escola ainda presa em cartazes de papel e grupos de WhatsApp lotados.
+O **Grêmio Digital** surgiu a partir de uma observação simples: embora os alunos estejam constantemente conectados, a comunicação oficial da escola ainda depende de meios tradicionais, como cartazes físicos e grupos de WhatsApp desorganizados.
 
-A plataforma substitui esses processos manuais por um **hub digital centralizado**, acessível diretamente pelo navegador via QR Code, sem necessidade de instalação. O projeto foi desenvolvido como Projeto Integrador I no **Centro Universitário de Brasília (UniCEUB)**, curso de Análise e Desenvolvimento de Sistemas, 3º Semestre.
+Diante desse cenário, a plataforma propõe a centralização dessas informações em um **hub digital único**, acessível diretamente pelo navegador por meio de QR Code, sem necessidade de instalação.
 
-### O Problema
+Este projeto foi desenvolvido como parte do **Projeto Integrador I** do **Centro Universitário de Brasília (UniCEUB)**, no curso de Análise e Desenvolvimento de Sistemas, 3º semestre.
 
-- Comunicação fragmentada em grupos de WhatsApp onde informações importantes se perdem
-- Votações feitas com cédulas de papel: lentas, sem transparência e sujeitas a erros
-- Alunos desinformados → desinteresse pelas atividades e decisões da escola
-- Ausência de um canal oficial de ouvidoria
+---
 
-### A Solução
+###  O Problema
 
-Uma **Plataforma Web Mobile-First** leve, acessível por QR Code, que oferece:
+Atualmente, a comunicação e a participação estudantil enfrentam diversos desafios:
 
-- Mural de avisos oficial do Grêmio
-- Urna eletrônica com validação por matrícula
-- Canal de ouvidoria estruturado
-- Painel administrativo com relatórios em PDF
+- Informações importantes se perdem em grupos de WhatsApp fragmentados  
+- Votações realizadas em papel, sem transparência e suscetíveis a erros  
+- Falta de engajamento dos alunos nas atividades e decisões da escola  
+- Inexistência de um canal oficial e estruturado de ouvidoria  
+
+---
+
+###  A Solução
+
+Para resolver essas dificuldades, foi proposta uma **Plataforma Web Mobile-First**, leve e acessível via QR Code, que oferece:
+
+-  Mural oficial de avisos do Grêmio  
+-  Sistema de votação eletrônica com validação por matrícula  
+-  Canal de ouvidoria estruturado  
+-  Painel administrativo com geração de relatórios em PDF  
 
 ---
 
