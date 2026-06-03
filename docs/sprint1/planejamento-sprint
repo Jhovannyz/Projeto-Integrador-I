@@ -1,0 +1,75 @@
+## 🚀 Sprint Planning — Sprint 1
+
+**Equipe (Scrum Time):** Fred Gabriel, Giovani Silva, Lucas de Jesus, Gustavo Barbosa, Guilherme Krinski
+**Product Owner:** Gustavo Barbosa
+**Scrum Master:** Guilherme Krinski
+
+---
+
+### 🎯 Objetivo da Sprint 1
+Entregar o MVP do aluno funcional: login por matrícula, mural de avisos e sistema de votação seguro operando, com bloqueio de voto duplicado e interface responsiva para smartphones.
+
+---
+
+### 📋 Itens selecionados do Backlog
+
+| ID | História de Usuário | Responsável | Prioridade |
+|---|---|---|---|
+| US01 | Login com número de matrícula | Giovani Silva | 🔴 Must Have |
+| US02 | Mural de avisos | Fred Gabriel | 🔴 Must Have |
+| US03 | Visualizar pautas abertas | Giovani Silva | 🔴 Must Have |
+| US04 | Registrar voto em pauta ativa | Giovani Silva | 🔴 Must Have |
+| US05 | Bloqueio de voto duplicado | Lucas de Jesus | 🔴 Must Have |
+| US06 | Admin — publicar/editar/remover avisos | Fred Gabriel | 🔴 Must Have |
+| RNF01 | Responsividade Mobile-First | Guilherme Krinski | 🔴 Must Have |
+| RNF04 | Segurança e privacidade (LGPD) | Gustavo Barbosa | 🔴 Must Have |
+
+---
+
+### ✅ Tarefas detalhadas (To Do)
+
+**US01 — Login**
+- [ ] Criar tela de login (campo de matrícula + botão entrar)
+- [ ] Implementar validação de matrícula no backend
+- [ ] Criar mensagem de erro para matrícula inválida
+- [ ] Redirecionar para o mural após login bem-sucedido
+
+**US02 — Mural de avisos**
+- [ ] Criar estrutura do feed cronológico
+- [ ] Desenvolver componente de card de aviso (título, data, descrição)
+- [ ] Conectar feed ao banco de dados
+
+**US03 — Visualizar pautas abertas**
+- [ ] Listar apenas pautas com status 'ativa' e dentro do prazo
+- [ ] Exibir título, descrição e prazo de encerramento de cada pauta
+- [ ] Mostrar pautas encerradas com status 'encerrada'
+
+**US04 — Registrar voto**
+- [ ] Criar tela de listagem de pautas ativas
+- [ ] Criar tela de votação com opções de escolha
+- [ ] Implementar tela de confirmação antes do envio
+- [ ] Salvar voto no banco de dados
+
+**US05 — Bloqueio de voto duplo**
+- [ ] Criar constraint de unicidade no banco (matrícula + pauta)
+- [ ] Implementar verificação no backend antes de salvar
+- [ ] Exibir mensagem "você já votou nesta pauta"
+
+**US06 — Admin: publicar avisos**
+- [ ] Criar formulário de publicação (título, descrição, categoria, imagem)
+- [ ] Implementar edição de aviso existente
+- [ ] Implementar remoção de aviso com confirmação
+
+**RNF01 — Responsividade**
+- [ ] Configurar meta viewport no HTML
+- [ ] Testar e ajustar layout em tela de 320px
+- [ ] Garantir botões e fontes legíveis em mobile
+
+**RNF04 — LGPD**
+- [ ] Garantir que apenas matrícula é armazenada
+- [ ] Separar tabela de votos da tabela de matrículas no banco
+- [ ] Adicionar aviso de privacidade na tela de login
+
+---
+
+📎 **Board do projeto:** [GitHub Projects](https://github.com/Jhovannyz/Projeto-Integrador-I/projects)
