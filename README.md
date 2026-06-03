@@ -77,7 +77,7 @@ Uma **Plataforma Web Mobile-First** leve, acessível por QR Code, que oferece:
 
 | Login | Home | Votação | Mural de Avisos | Ouvidoria | Documentos |
 |-------|-----------------|---------|--------------|---------|---------|
-| ![Login](https://github.com/Jhovannyz/Projeto-Integrador-I/blob/main/Login.png) | ![Home](https://github.com/Jhovannyz/Projeto-Integrador-I/blob/main/Home.png) | ![Votação](https://github.com/Jhovannyz/Projeto-Integrador-I/blob/main/Vota%C3%A7%C3%A3o.png) | ![Mural de Avisos](https://github.com/Jhovannyz/Projeto-Integrador-I/blob/main/Avisos.png) | ![Ouvidoria](https://github.com/Jhovannyz/Projeto-Integrador-I/blob/main/Ouvidoria.png) | ![Documentos](https://github.com/Jhovannyz/Projeto-Integrador-I/blob/main/Documentos.png) |
+| ![Login](https://github.com/Jhovannyz/Projeto-Integrador-I/blob/main/prot%C3%B3tipo/login.png) | ![Home](https://github.com/Jhovannyz/Projeto-Integrador-I/blob/main/prot%C3%B3tipo/home.png) | ![Votação](https://github.com/Jhovannyz/Projeto-Integrador-I/blob/main/prot%C3%B3tipo/vota%C3%A7%C3%A3o.png) | ![Mural de Avisos](https://github.com/Jhovannyz/Projeto-Integrador-I/blob/main/prot%C3%B3tipo/avisos.png) | ![Ouvidoria](https://github.com/Jhovannyz/Projeto-Integrador-I/blob/main/prot%C3%B3tipo/ouvidoria.png) | ![Documentos](https://github.com/Jhovannyz/Projeto-Integrador-I/blob/main/prot%C3%B3tipo/documentos.png) |
 
 ---
 
