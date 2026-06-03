@@ -80,9 +80,10 @@
 
 - [x] Publicar protótipo funcional no repositório
   - 🔗 [Repositório GitHub](https://github.com/Jhovannyz/Projeto-Integrador-I/tree/main)
-- [x] Adicionar documento técnico em `docs/sprint2/`
-  - `docs/sprint2/documento-tecnico-sprint2.docx` ✅
+- [x] Adicionar o checklist-sprint2 em `docs/sprint2/`
   - `docs/sprint2/checklist-sprint2.md` ✅
+- [x] Adicionar o Documento Técnico no site da documentação central
+  - 🔗 [Documentação do Projeto](https://gremiodigital-documentacao.netlify.app/) ✅
 - [x] Atualizar quadro no GitHub Projects
   - US07, US08, US09 e US12 movidas para **🔄 In Progress**
   - 🔗 [Acessar GitHub Projects](https://github.com/Jhovannyz/Projeto-Integrador-I/projects)
