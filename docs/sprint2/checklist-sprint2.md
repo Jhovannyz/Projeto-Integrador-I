@@ -50,7 +50,7 @@
   - US09 – Dashboard de resultados em tempo real
   - US12 – Confirmação visual após votar
 - [x] Criar tarefas detalhadas
-  - Ver detalhamento em `docs/sprint2/documento-tecnico-sprint2.docx`
+  - Ver detalhamento em Documento Técnico 🔗 [Documentação do Projeto](https://gremiodigital-documentacao.netlify.app/)
 - [x] Trabalhar em pares (Pair Programming)
   - Par 1: Giovani (Driver) + Fred (Navigator) → US07
   - Par 2: Fred (Driver) + Giovani (Navigator) → US08
