@@ -16,7 +16,7 @@
 
 ---
 
-## Sumário
+## 📑 Sumário
 
 - [Sobre o Projeto](#sobre-o-projeto)
 - [Funcionalidades](#funcionalidades)
@@ -71,7 +71,7 @@ O **Grêmio Digital** centraliza todos esses processos em uma única plataforma 
 
 ## Funcionalidades
 
-### Módulo do Aluno
+### 👨‍🎓 Módulo do Aluno
 | Funcionalidade | Descrição |
 |---|---|
 | Login por Matrícula | Acesso validado pelo número de matrícula escolar |
@@ -80,7 +80,7 @@ O **Grêmio Digital** centraliza todos esses processos em uma única plataforma 
 | Bloqueio de Voto Duplo | Cada matrícula registra apenas um voto por pauta |
 | Comprovante de Participação | Confirmação visual imediata após o voto |
 
-### Módulo Administrativo (Grêmio)
+### 👨‍💼 Módulo Administrativo (Grêmio)
 | Funcionalidade | Descrição |
 |---|---|
 | Painel Administrativo | Área restrita de gestão da plataforma |
@@ -98,12 +98,12 @@ Acesse o protótipo interativo clicando no link abaixo:
 > **[Protótipo Grêmio Digital](https://sharp-set-73507180.figma.site/login)**
 
 <p align="center">
-  <img src="https://github.com/Jhovannyz/Projeto-Integrador-I/blob/main/prot%C3%B3tipo/login.png" width="150">
-  <img src="https://github.com/Jhovannyz/Projeto-Integrador-I/blob/main/prot%C3%B3tipo/home.png" width="150">
-  <img src="https://github.com/Jhovannyz/Projeto-Integrador-I/blob/main/prot%C3%B3tipo/vota%C3%A7%C3%A3o.png" width="150">
-  <img src="https://github.com/Jhovannyz/Projeto-Integrador-I/blob/main/prot%C3%B3tipo/avisos.png" width="150">
-  <img src="https://github.com/Jhovannyz/Projeto-Integrador-I/blob/main/prot%C3%B3tipo/ouvidoria.png" width="150">
-  <img src="https://github.com/Jhovannyz/Projeto-Integrador-I/blob/main/prot%C3%B3tipo/documentos.png" width="150">
+  <img src="https://github.com/Jhovannyz/Projeto-Integrador-I/blob/main/prot%C3%B3tipo/login.png" width="130">
+  <img src="https://github.com/Jhovannyz/Projeto-Integrador-I/blob/main/prot%C3%B3tipo/home.png" width="130">
+  <img src="https://github.com/Jhovannyz/Projeto-Integrador-I/blob/main/prot%C3%B3tipo/vota%C3%A7%C3%A3o.png" width="130">
+  <img src="https://github.com/Jhovannyz/Projeto-Integrador-I/blob/main/prot%C3%B3tipo/avisos.png" width="130">
+  <img src="https://github.com/Jhovannyz/Projeto-Integrador-I/blob/main/prot%C3%B3tipo/ouvidoria.png" width="130">
+  <img src="https://github.com/Jhovannyz/Projeto-Integrador-I/blob/main/prot%C3%B3tipo/documentos.png" width="130">
 </p>
 
 ---
@@ -124,25 +124,12 @@ Acesse o protótipo interativo clicando no link abaixo:
 
 Este projeto será desenvolvido utilizando metodologias ágeis (**Scrum**) e foco no usuário (**Design Thinking**), com as seguintes ferramentas:
 
-### Design e Prototipação
-
-- Figma
-
-### Gestão do Projeto
-
-- Scrum
-- GitHub Projects
-- Kanban
-
-### Controle de Versão
-
-- Git
-- GitHub
-
-### Documentação
-
-- Markdown
-- Netlify
+| Objetivo | Tecnologias |
+|------------|---------|
+| Design e Prototipação | Figma |
+| Gestão de Projeto | Scrum, GitHub Project e Kanban |
+| Controle de Versão | Git e GitHub |
+| Documentação | Markdown e Netlify |
 
 > As tecnologias de desenvolvimento (linguagem, framework, banco de dados) serão documentadas aqui conforme o projeto avança.
 
