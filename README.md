@@ -71,7 +71,7 @@ O **Grêmio Digital** centraliza todos esses processos em uma única plataforma 
 
 ## Funcionalidades
 
-### 👨‍🎓 Módulo do Aluno
+### Módulo do Aluno
 | Funcionalidade | Descrição |
 |---|---|
 | Login por Matrícula | Acesso validado pelo número de matrícula escolar |
@@ -80,7 +80,7 @@ O **Grêmio Digital** centraliza todos esses processos em uma única plataforma 
 | Bloqueio de Voto Duplo | Cada matrícula registra apenas um voto por pauta |
 | Comprovante de Participação | Confirmação visual imediata após o voto |
 
-### 👨‍💼 Módulo Administrativo (Grêmio)
+### Módulo Administrativo (Grêmio)
 | Funcionalidade | Descrição |
 |---|---|
 | Painel Administrativo | Área restrita de gestão da plataforma |
