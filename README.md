@@ -1,12 +1,17 @@
-# 🏫 Grêmio Digital
-
-> Plataforma web que moderniza a gestão do Grêmio Estudantil em escolas públicas — comunicação centralizada, votação segura e transparente, tudo na palma da mão.
+<h1 align="center">Grêmio Digital</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow" alt="Status"/>
-  <img src="https://img.shields.io/badge/versão-MVP-blue" alt="Versão"/>
-  <img src="https://img.shields.io/badge/mobile--first-✓-green" alt="Mobile First"/>
-  <img src="https://img.shields.io/badge/licença-MIT-lightgrey" alt="Licença"/>
+  Plataforma web para modernizar a comunicação, participação e transparência do Grêmio Estudantil.
+</p>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow" alt="Status">
+  <img src="https://img.shields.io/badge/versão-MVP-blue" alt="Versão">
+  <img src="https://img.shields.io/badge/mobile--first-success" alt="Mobile First">
+  <img src="https://img.shields.io/badge/licença-MIT-lightgrey" alt="Licença">
+  <img src="https://img.shields.io/badge/ADS-UniCEUB-red" alt="UniCEUB">
+  <img src="https://img.shields.io/badge/metodologia-Scrum-purple" alt="Scrum">
 </p>
 
 ---
@@ -25,35 +30,42 @@
 
 ---
 
-##  Sobre o Projeto
+## Sobre o Projeto
 
-O **Grêmio Digital** surgiu a partir de uma observação simples: embora os alunos estejam constantemente conectados, a comunicação oficial da escola ainda depende de meios tradicionais, como cartazes físicos e grupos de WhatsApp desorganizados.
+O Grêmio Digital surgiu da necessidade de modernizar a comunicação e aumentar a participação dos estudantes nas atividades do Grêmio Estudantil.
 
-Diante desse cenário, a plataforma propõe a centralização dessas informações em um **hub digital único**, acessível diretamente pelo navegador por meio de QR Code, sem necessidade de instalação.
+Embora os alunos estejam constantemente conectados, muitas escolas ainda dependem de cartazes físicos, avisos informais e grupos de mensagens fragmentados para divulgar informações importantes.
 
-Este projeto foi desenvolvido como parte do **Projeto Integrador I** do **Centro Universitário de Brasília (UniCEUB)**, no curso de Análise e Desenvolvimento de Sistemas, 3º semestre.
+Pensando nisso, o Grêmio Digital foi idealizado como uma plataforma web acessível diretamente pelo navegador, sem necessidade de instalação, permitindo que qualquer aluno participe de forma simples e rápida através de um QR Code.
 
----
-
-###  O Problema
-
-Atualmente, a comunicação e a participação estudantil enfrentam diversos desafios:
-
-- Informações importantes se perdem em grupos de WhatsApp fragmentados  
-- Votações realizadas em papel, sem transparência e suscetíveis a erros  
-- Falta de engajamento dos alunos nas atividades e decisões da escola  
-- Inexistência de um canal oficial e estruturado de ouvidoria  
+O projeto está sendo desenvolvido como parte do Projeto Integrador I do curso de Análise e Desenvolvimento de Sistemas do Centro Universitário de Brasília (UniCEUB).
 
 ---
 
-###  A Solução
+### O Problema
 
-Para resolver essas dificuldades, foi proposta uma **Plataforma Web Mobile-First**, leve e acessível via QR Code, que oferece:
+As principais dificuldades identificadas foram:
 
--  Mural oficial de avisos do Grêmio  
--  Sistema de votação eletrônica com validação por matrícula  
--  Canal de ouvidoria estruturado  
--  Painel administrativo com geração de relatórios em PDF  
+- Informações importantes se perdem em grupos de WhatsApp
+- Comunicação descentralizada entre Grêmio e alunos
+- Baixa participação estudantil em decisões da escola
+- Votações realizadas em papel
+- Falta de transparência nos resultados
+- Ausência de um canal oficial para sugestões e reclamações
+
+---
+
+### A Solução
+
+O **Grêmio Digital** centraliza todos esses processos em uma única plataforma digital.
+
+- Comunicação oficial centralizada
+- Mural digital de avisos
+- Votação eletrônica segura
+- Transparência nos processos democráticos
+- Canal de ouvidoria estudantil
+- Relatórios automatizados
+- Acesso rápido via QR Code
 
 ---
 
@@ -68,7 +80,7 @@ Para resolver essas dificuldades, foi proposta uma **Plataforma Web Mobile-First
 | Bloqueio de Voto Duplo | Cada matrícula registra apenas um voto por pauta |
 | Comprovante de Participação | Confirmação visual imediata após o voto |
 
-### Módulo do Administrador (Grêmio)
+### Módulo Administrativo (Grêmio)
 | Funcionalidade | Descrição |
 |---|---|
 | Painel Administrativo | Área restrita de gestão da plataforma |
@@ -79,17 +91,24 @@ Para resolver essas dificuldades, foi proposta uma **Plataforma Web Mobile-First
 
 ---
 
-## Telas do Protótipo
+## Protótipo
 
-> **[Protótipo Desenvolvido no Figma](https://sharp-set-73507180.figma.site/login)**
+Acesse o protótipo interativo clicando no link abaixo:
 
-| Login | Home | Votação | Mural de Avisos | Ouvidoria | Documentos |
-|-------|-----------------|---------|--------------|---------|---------|
-| ![Login](https://github.com/Jhovannyz/Projeto-Integrador-I/blob/main/prot%C3%B3tipo/login.png) | ![Home](https://github.com/Jhovannyz/Projeto-Integrador-I/blob/main/prot%C3%B3tipo/home.png) | ![Votação](https://github.com/Jhovannyz/Projeto-Integrador-I/blob/main/prot%C3%B3tipo/vota%C3%A7%C3%A3o.png) | ![Mural de Avisos](https://github.com/Jhovannyz/Projeto-Integrador-I/blob/main/prot%C3%B3tipo/avisos.png) | ![Ouvidoria](https://github.com/Jhovannyz/Projeto-Integrador-I/blob/main/prot%C3%B3tipo/ouvidoria.png) | ![Documentos](https://github.com/Jhovannyz/Projeto-Integrador-I/blob/main/prot%C3%B3tipo/documentos.png) |
+> **[Protótipo Grêmio Digital](https://sharp-set-73507180.figma.site/login)**
+
+<p align="center">
+  <img src="https://github.com/Jhovannyz/Projeto-Integrador-I/blob/main/prot%C3%B3tipo/login.png" width="150">
+  <img src="https://github.com/Jhovannyz/Projeto-Integrador-I/blob/main/prot%C3%B3tipo/home.png" width="150">
+  <img src="https://github.com/Jhovannyz/Projeto-Integrador-I/blob/main/prot%C3%B3tipo/vota%C3%A7%C3%A3o.png" width="150">
+  <img src="https://github.com/Jhovannyz/Projeto-Integrador-I/blob/main/prot%C3%B3tipo/avisos.png" width="150">
+  <img src="https://github.com/Jhovannyz/Projeto-Integrador-I/blob/main/prot%C3%B3tipo/ouvidoria.png" width="150">
+  <img src="https://github.com/Jhovannyz/Projeto-Integrador-I/blob/main/prot%C3%B3tipo/documentos.png" width="150">
+</p>
 
 ---
 
-## Como Executar
+## 📰 Como Executar
 
 > **Em Breve!**
 
@@ -103,11 +122,27 @@ Para resolver essas dificuldades, foi proposta uma **Plataforma Web Mobile-First
 
 ## Tecnologias
 
-Este projeto foi desenvolvido utilizando metodologias ágeis (**Scrum**) e foco no usuário (**Design Thinking**), com as seguintes ferramentas:
+Este projeto será desenvolvido utilizando metodologias ágeis (**Scrum**) e foco no usuário (**Design Thinking**), com as seguintes ferramentas:
 
-- **Figma** — Prototipagem e validação de UX
-- **GitHub** — Controle de versão e colaboração
-- **GitHub Projects** — Quadro Kanban para gestão de tarefas
+### Design e Prototipação
+
+- Figma
+
+### Gestão do Projeto
+
+- Scrum
+- GitHub Projects
+- Kanban
+
+### Controle de Versão
+
+- Git
+- GitHub
+
+### Documentação
+
+- Markdown
+- Netlify
 
 > As tecnologias de desenvolvimento (linguagem, framework, banco de dados) serão documentadas aqui conforme o projeto avança.
 
@@ -115,15 +150,19 @@ Este projeto foi desenvolvido utilizando metodologias ágeis (**Scrum**) e foco 
 
 ## 👥 Equipe
 
-Projeto desenvolvido no **3º Semestre de ADS — UniCEUB**, sob orientação da Professora **Kadidja Valeria Reginaldo de Oliveira**.
+Projeto desenvolvido pelos alunos do **3º Semestre de Análise e Desenvolvimento de Sistemas — UniCEUB**.
 
-| Membro | GitHub |
-|---|---|
-| **Giovani Silva** | Jhovannyz |
-| **Guilherme Krinski** | Guilhermekrinski |
-| **Gustavo Barbosa** | GustwvoB |
-| **Fred Gabriel** | DevFredCardoso |
-| **Lucas de Jesus** | LucasJesusSV |
+| Integrante | GitHub |
+|------------|---------|
+| Giovani Silva | @Jhovannyz |
+| Guilherme Krinski | @Guilhermekrinski |
+| Gustavo Barbosa | @GustwvoB |
+| Fred Gabriel | @DevFredCardoso |
+| Lucas de Jesus | @LucasJesusSV |
+
+### 🎓 Orientação Acadêmica
+
+**Prof.ª Kadidja Valeria Reginaldo de Oliveira**
 
 ---
 
@@ -139,13 +178,15 @@ Projeto desenvolvido no **3º Semestre de ADS — UniCEUB**, sob orientação da
 
 ---
 
-## 📄 Documentação do Projeto: 
+## 📄 Documentação Central: 
+A documentação completa do projeto pode ser acessada através do link:
 
-
-> **[Grêmio Digital Documentação](https://gremiodigital-documentacao.netlify.app/)**
+> **[Documentação Grêmio Digital](https://gremiodigital-documentacao.netlify.app/)**
 
 ---
 
 <p align="center">
   © Grêmio Digital 2026
 </p>
+
+---
