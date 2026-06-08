@@ -32,13 +32,13 @@
 
 ## Sobre o Projeto
 
-O Grêmio Digital surgiu da necessidade de modernizar a comunicação e aumentar a participação dos estudantes nas atividades do Grêmio Estudantil.
+O **Grêmio Digital** surgiu da necessidade de **modernizar a comunicação e aumentar a participação dos estudantes** nas atividades do Grêmio Estudantil.
 
 Embora os alunos estejam constantemente conectados, muitas escolas ainda dependem de cartazes físicos, avisos informais e grupos de mensagens fragmentados para divulgar informações importantes.
 
-Pensando nisso, o Grêmio Digital foi idealizado como uma plataforma web acessível diretamente pelo navegador, sem necessidade de instalação, permitindo que qualquer aluno participe de forma simples e rápida através de um QR Code.
+Pensando nisso, o Grêmio Digital foi idealizado como uma **plataforma web acessível diretamente pelo navegador**, sem necessidade de instalação, permitindo que qualquer aluno participe de forma simples e rápida através de um **QR Code**.
 
-O projeto está sendo desenvolvido como parte do Projeto Integrador I do curso de Análise e Desenvolvimento de Sistemas do Centro Universitário de Brasília (UniCEUB).
+O projeto está sendo desenvolvido como parte do **Projeto Integrador I** do curso de **Análise e Desenvolvimento de Sistemas** do **Centro Universitário de Brasília (UniCEUB)**.
 
 ---
 
