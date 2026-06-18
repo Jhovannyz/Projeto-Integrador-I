@@ -10,10 +10,10 @@ Projeto: Grêmio Digital — Protótipo (Figma)
 
 ## 1. Critérios de Validação
 
-- **Usabilidade:** Parcial — o fluxo de votação foi compreendido com facilidade, mas o usuário sentiu falta de textos explicativos sobre o que cada funcionalidade faz, e não percebeu de imediato que havia uma pauta de votação ativa.
-- **Funcionalidade:** Sim — o fluxo de voto (seleção de opção, confirmação e mensagem de sucesso) funcionou conforme esperado, sem erros relatados.
-- **Desempenho:** Sim — não houve relatos de lentidão ou demora entre as telas durante a navegação no protótipo.
-- **Clareza técnica:** Sim — arquitetura, stack e padrões de código já estão documentados no Documento Técnico da Sprint 2, servindo de base sólida para a implementação.
+- **Usabilidade:** Parcial, o fluxo de votação foi compreendido com facilidade, mas o usuário sentiu falta de textos explicativos sobre o que cada funcionalidade faz, e não percebeu de imediato que havia uma pauta de votação ativa.
+- **Funcionalidade:** Sim, o fluxo de voto (seleção de opção, confirmação e mensagem de sucesso) funcionou conforme esperado, sem erros relatados.
+- **Desempenho:** Sim, não houve relatos de lentidão ou demora entre as telas durante a navegação no protótipo.
+- **Clareza técnica:** Sim, a arquitetura, o stack e os padrões de código já estão documentados no Documento Técnico da Sprint 2, servindo de base sólida para a implementação.
 
 ---
 
