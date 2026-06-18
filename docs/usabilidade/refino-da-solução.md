@@ -21,7 +21,7 @@ Projeto: Grêmio Digital — Protótipo (Figma)
 
 - Adição de textos de apoio (placeholders e legendas explicativas) explicando a função de cada seção principal do sistema (Mural, Votação, Painel Admin), reduzindo a curva de entendimento inicial do usuário.
 - Criação de um destaque visual (banner "Votação Ativa") no topo do mural, exibido sempre que houver uma pauta em aberto, resolvendo o problema de baixa visibilidade identificado no teste.
-- Modal adicionado na tela de ouvidoria, em formato de e-mail, mostrando histórico de conversas entre a ouvidoria e o aluno.
+- Reestruturação da interface da ouvidoria para exibir as mensagens em formato de e-mail (título, data e destinatário), incluindo a abertura de um modal que mostra o histórico de conversas entre a ouvidoria e o aluno.
 - Inclusão de uma notificação visual (badge numérico) no mural, alertando os alunos sobre novas pautas ou avisos publicados sem a necessidade de navegação ativa.
 - Uma melhor visualização de quem compõe as chapas estudantis, aparecendo os integrantes de cada chapa e suas propostas para a escola ao clicar em "Eleição para Presidente do Grêmio 2026" por exemplo.
 
