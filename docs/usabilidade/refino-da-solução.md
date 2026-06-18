@@ -1,10 +1,10 @@
 # Documento de Refino da Solução
 
-📅 Data: 17/06/2026
+Data: 17/06/2026
 
-👥 Equipe: Grêmio Digital
+Equipe: Grêmio Digital
 
-🧩 Projeto: Grêmio Digital — Protótipo (Figma)
+Projeto: Grêmio Digital — Protótipo (Figma)
 
 ---
 
