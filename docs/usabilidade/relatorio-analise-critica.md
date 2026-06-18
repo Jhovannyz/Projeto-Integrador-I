@@ -4,7 +4,7 @@
 
 **Equipe:** Grêmio Digital
 
-**Projeto:** Grêmio Digital — Protótipo navegável (Figma)
+**Projeto:** [Protótipo navegável](https://sharp-set-73507180.figma.site/login) (Figma)
 
 **Usuário/Convidado:** Integrantes do Grêmio Estudantil
 
@@ -15,7 +15,7 @@
 - **Objetivo do teste:** Avaliar a clareza do fluxo de login por matrícula, a facilidade de navegação até o mural e a votação, e o tempo de resposta percebido entre as telas do protótipo.
 - **Tipo de teste:** Teste online, formulário com as perguntas do relatório crítico enviados junto com o protótipo para os integrantes do Grêmio Estudantil do Paulo Freire.
 - **Duração:** [15 minutos]
-- **Ferramentas utilizadas:** Figma (protótipo navegável) e Google Forms (formulário com as perguntas do relatório crítico).
+- **Ferramentas utilizadas:** Figma (protótipo navegável) e Google Forms (formulário com perguntas de teste de usabilidade, disponível em: [Formulário - Teste de Usabilidade](https://forms.gle/9nDyoop1thS4iCMz9)).
 
 ---
 
@@ -27,21 +27,20 @@
 - A tela de confirmação de voto transmitiu segurança e clareza sobre a conclusão da ação.
 
 **Dificuldades encontradas:**
-- O usuário hesitou na tela de login, não soube de imediato que deveria digitar o número de matrícula.
-- O ícone do mural de avisos não foi reconhecido imediatamente como notícias.
-- O usuário de início não percebeu que havia uma pauta de votação ativa.
+- O usuário não sabia muito bem o que cada funcionalidade fazia de início, sentiu falta de alguns textos de apoio.
+- Usuário de início não percebeu que havia uma pauta de votação ativa.
 
 **Sugestões do usuário:**
-- Destacar um pouco mais a pauta de votação ativa na tela inicial com uma cor diferenciada, para que o aluno visualize o item assim que entrar no sistema.
-- As mensagens em ouvidoria deveriam mostrar as mensagens como emails. título, data e destinatário. quando o usuário clicasse na mensagem apareceria um modal que mostraria a conversa entre a ouvidoria e o usuário com respectivo assunto.
-- Incluir notificação visual (ícone de sino ou badge numérico) quando houver uma nova pauta ou aviso publicado, facilitando que o aluno perceba atualizações sem precisar navegar ativamente pelo mural.
+- Destacar um pouco mais a pauta de votação ativa na tela inicial, para que o aluno visualize o item assim que entrar no sistema.
+- Mostrar as mensagens em ouvidoria como emails (título, data e destinatário), para quando o usuário clicar na mensagem, aparecer um modal que mostraria a conversa entre a ouvidoria e o usuário com respectivo assunto.
+- Adicionar textos de apoio nas telas, orientando como preencher corretamente os campos e como navegar pela plataforma, para ajudar os alunos que estão acessando o portal pela primeira vez.
 
 ---
 
 ## 3. Análise Crítica da Equipe
 
-- **Usabilidade geral:** Adequada, com pequenos ajustes de clareza necessários na tela de login e no destaque de pautas ativas.
-- **Acessibilidade:** Contraste de cores adequado, com fontes legíveis em tela mobile. Ponto de atenção: tamanho dos ícones do mural pode ser pequeno em telas de 320px.
+- **Usabilidade geral:** Adequada, com pequenos ajustes de clareza necessários nas telas do protótipo e no destaque de pautas ativas.
+- **Acessibilidade:** Contraste de cores adequado, com fontes legíveis em tela mobile.
 - **Experiência do usuário (UX):** Fluxo de votação fluido e satisfatório; usuário concluiu a tarefa principal (votar) sem ajuda após o login.
 - **Pontos fortes:** Design consistente, fluxo de votação claro, tela de confirmação transmite confiança.
 - **Pontos fracos:** Falta de instrução textual nas telas e a pauta ativa não tem destaque visual suficiente na primeira tela.
@@ -52,8 +51,9 @@
 
 - [ ] Adicionar textos de apoio (placeholder ou legenda) nas telas para orientação no primeiro contato com a plataforma.
 - [ ] Criar um destaque visual (banner "Votação Ativa") ainda mais destacado para quando houver pauta aberta.
-- [ ] Aumentar o tamanho dos ícones de categoria do mural para melhorar a identificação em telas pequenas.
+- [ ] Adicionar um Modal na tela de ouvidoria, em formato de e-mail, mostrando histórico de conversas entre a ouvidoria e o aluno.
 - [ ] Revisar os textos das mensagens de confirmação para reforçar o caráter anônimo do voto.
+- [ ] Inclusão de uma notificação visual (badge numérico) no mural, alertando os alunos sobre novas pautas ou avisos publicados sem a necessidade de navegação ativa.
 
 ---
 
