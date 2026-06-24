@@ -12,11 +12,11 @@ Escola Parceira: CEM Paulo Freire
 
 ## 1. Sobre o Projeto
 
-O Grêmio Digital nasceu de uma observação simples feita durante a imersão na escola parceira: alunos com smartphone na mão, mas o Grêmio ainda dependendo de cartaz de papel e grupos de WhatsApp para se comunicar — e de cédulas de papel dobradas numa caixinha para realizar eleições.
+O Grêmio Digital nasceu de uma observação simples feita durante a imersão na escola parceira: alunos com smartphone na mão, mas o Grêmio ainda dependendo de cartaz de papel e grupos de WhatsApp para se comunicar, e de cédulas de papel dobradas numa caixinha para realizar eleições.
 
 A proposta foi direta: criar uma plataforma web leve, acessada via QR Code pelo navegador do celular, que centralizasse a comunicação oficial do Grêmio e tornasse as votações seguras, transparentes e auditáveis. Sem instalar app. Sem cadastro complicado. Só o número de matrícula e pronto.
 
-Ao longo do Projeto Integrador I, a equipe dedicou o semestre inteiro ao planejamento, documentação e validação dessa solução — construindo a fundação sobre a qual o sistema será desenvolvido nos próximos semestres.
+Ao longo do Projeto Integrador I, a equipe dedicou o semestre inteiro ao planejamento, documentação e validação dessa solução, construindo a fundação sobre a qual o sistema será desenvolvido nos próximos semestres.
 
 ---
 
@@ -66,7 +66,7 @@ Validar com usuários reais desde o início faz toda a diferença. As melhorias 
 Aplicar Scrum em um semestre de documentação pareceu estranho no começo, mas funcionou. Ter sprints definidas, backlog priorizado, daily scrums e retrospectiva fez com que a equipe sempre soubesse o que estava fazendo, por que estava fazendo e o que vinha a seguir. A metodologia não é sobre código — é sobre organização e colaboração.
 
 **Sobre a equipe:**
-Pair Programming mostrou que duas cabeças pensam melhor que uma — e que a revisão contínua do trabalho do colega evita problemas que a revisão individual nunca pegaria. A divisão clara de papéis (PO, SM, Developers) também foi essencial para que ninguém ficasse sobrecarregado e para que as decisões tivessem um responsável claro.
+Pair Programming mostrou que duas cabeças pensam melhor que uma, e que a revisão contínua do trabalho do colega evita problemas que a revisão individual nunca pegaria. A divisão clara de papéis (PO, SM, Developers) também foi essencial para que ninguém ficasse sobrecarregado e para que as decisões tivessem um responsável claro.
 
 **Sobre documentação:**
 Rastreabilidade não é burocracia. Manter os mesmos IDs em todos os artefatos e registrar cada decisão no momento em que foi tomada fez com que qualquer membro da equipe — ou qualquer pessoa de fora — conseguisse entender o estado do projeto sem precisar perguntar nada a ninguém.
@@ -101,6 +101,6 @@ Após o desenvolvimento, a etapa final será testar o sistema com alunos reais d
 
 ## 6. Considerações Finais
 
-O Projeto Integrador I nos mostrou, na prática, o que significa trabalhar em equipe com metodologia, ouvir o usuário com atenção e documentar as decisões com responsabilidade. Mais do que um conjunto de documentos, o que construímos nesse semestre foi um caminho claro — sabemos exatamente o que vai ser construído, para quem, com qual tecnologia e por quê.
+O Projeto Integrador I nos mostrou, na prática, o que significa trabalhar em equipe com metodologia, ouvir o usuário com atenção e documentar as decisões com responsabilidade. Mais do que um conjunto de documentos, o que construímos nesse semestre foi um caminho claro, sabemos exatamente o que vai ser construído, para quem, com qual tecnologia e por quê.
 
 O Grêmio Digital não é só um projeto acadêmico. É uma solução real para um problema real, construída por estudantes para estudantes.
