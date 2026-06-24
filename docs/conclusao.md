@@ -63,13 +63,13 @@ Esse semestre ensinou que construir software de qualidade começa muito antes do
 Validar com usuários reais desde o início faz toda a diferença. As melhorias mais impactantes que fizemos no protótipo — o banner de votação ativa, os textos de apoio e a reestruturação da ouvidoria — não vieram da nossa cabeça. Vieram de conversar com quem vai usar o sistema de verdade.
 
 **Sobre o processo:**
-Aplicar Scrum em um semestre de documentação pareceu estranho no começo, mas funcionou. Ter sprints definidas, backlog priorizado, daily scrums e retrospectiva fez com que a equipe sempre soubesse o que estava fazendo, por que estava fazendo e o que vinha a seguir. A metodologia não é sobre código — é sobre organização e colaboração.
+Aplicar Scrum em um semestre de documentação pareceu estranho no começo, mas funcionou. Ter sprints definidas, backlog priorizado, daily scrums e retrospectiva fez com que a equipe sempre soubesse o que estava fazendo, por que estava fazendo e o que vinha a seguir. A metodologia não é sobre código, é sobre organização e colaboração.
 
 **Sobre a equipe:**
 Pair Programming mostrou que duas cabeças pensam melhor que uma, e que a revisão contínua do trabalho do colega evita problemas que a revisão individual nunca pegaria. A divisão clara de papéis (PO, SM, Developers) também foi essencial para que ninguém ficasse sobrecarregado e para que as decisões tivessem um responsável claro.
 
 **Sobre documentação:**
-Rastreabilidade não é burocracia. Manter os mesmos IDs em todos os artefatos e registrar cada decisão no momento em que foi tomada fez com que qualquer membro da equipe — ou qualquer pessoa de fora — conseguisse entender o estado do projeto sem precisar perguntar nada a ninguém.
+Rastreabilidade não é burocracia. Manter os mesmos IDs em todos os artefatos e registrar cada decisão no momento em que foi tomada fez com que qualquer membro da equipe, ou qualquer pessoa de fora, conseguisse entender o estado do projeto sem precisar perguntar nada a ninguém.
 
 ---
 
