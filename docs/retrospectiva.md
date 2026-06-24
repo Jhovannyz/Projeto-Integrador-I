@@ -12,15 +12,15 @@ Projeto: Grêmio Digital — Plataforma web para gestão do Grêmio Estudantil
 
 - **Documentar antes de executar funciona.** Passar o semestre inteiro planejando antes de codar parece contraditório, mas nos mostrou que chegar no PI II com backlog completo, arquitetura definida e protótipo validado é muito mais valioso do que ter código pela metade sem direção clara.
 
-- **Validação com usuário real muda tudo.** Toda vez que levamos o protótipo para o Grêmio do CEM Paulo Freire, voltamos com insights que a equipe jamais teria sozinha. O banner de votação ativa e os textos de apoio nas funcionalidades — duas das melhorias mais impactantes — vieram diretamente do feedback da escola, não de suposição nossa.
+- **Validação com usuário real muda tudo.** Toda vez que levamos o protótipo para o Grêmio do CEM Paulo Freire, voltamos com insights que a equipe jamais teria sozinha. O banner de votação ativa e os textos de apoio nas funcionalidades, duas das melhorias mais impactantes, vieram diretamente do feedback da escola, não de suposição nossa.
 
-- **Rastreabilidade é mais importante do que parece.** Manter os mesmos IDs (RF01, US01, RNF01) em todos os documentos — do Documento de Requisitos ao Backlog, do Backlog ao GitHub Projects — fez com que qualquer membro da equipe conseguisse entender o estado do projeto sem precisar perguntar nada a ninguém.
+- **Rastreabilidade é mais importante do que parece.** Manter os mesmos IDs (RF01, US01, RNF01) em todos os documentos, do Documento de Requisitos ao Backlog, do Backlog ao GitHub Projects, fez com que qualquer membro da equipe conseguisse entender o estado do projeto sem precisar perguntar nada a ninguém.
 
 - **Pair Programming reduz retrabalho.** A revisão cruzada entre Driver e Navigator na Sprint 2 pegou inconsistências que passariam despercebidas em revisões individuais. É uma prática que agrega muito mais valor do que parece no começo.
 
 - **Decisões técnicas precisam ser tomadas e registradas juntas.** A definição da stack só foi formalizada na Sprint 2, e a falta de um padrão de nomenclatura combinado antes gerou retrabalho. Ficou claro que esse tipo de decisão precisa acontecer antes de qualquer sprint de desenvolvimento começar.
 
-- **Scrum funciona mesmo sem código.** Aplicar Daily Scrum, Sprint Planning, Kanban e Retrospectiva em um semestre de documentação mostrou que a metodologia é sobre organização e colaboração — não sobre tecnologia.
+- **Scrum funciona mesmo sem código.** Aplicar Daily Scrum, Sprint Planning, Kanban e Retrospectiva em um semestre de documentação mostrou que a metodologia é sobre organização e colaboração, não sobre tecnologia.
 
 ---
 
