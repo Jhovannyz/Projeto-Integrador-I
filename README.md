@@ -20,13 +20,13 @@
 
 - [Sobre o Projeto](#sobre-o-projeto)
 - [Funcionalidades](#funcionalidades)
-- [Telas do Protótipo](#telas-do-prototipo)
-- [Como Executar](#como-executar)
-- [Estrutura do Projeto](#estrutura-do-projeto)
+- [Protótipo](#protótipo)
+- [Como Executar](#-como-executar)
+- [Estrutura do Projeto](#-estrutura-do-projeto)
 - [Tecnologias](#tecnologias)
-- [Equipe](#equipe)
-- [Métricas de Sucesso](#métricas-de-sucesso)
-- [Documentação](#documentacao-disponivel-em)
+- [Equipe](#-equipe)
+- [Métricas de Sucesso](#métricas-de-sucesso-do-mvp)
+- [Documentação](#-documentação-central)
 
 ---
 
