@@ -55,16 +55,19 @@ Projeto: Grêmio Digital — Plataforma web para gestão do Grêmio Estudantil
 ## 3. Registros das Sprints
 
 ### Sprint 1 — Planejamento e Documentação Base
+- **Foco:** Definição do problema e requisitos base.
 - **Principais entregas:** Plano de Projeto, Documento de Visão, Documento 5W2H, Documento de Requisitos (RF01–RF05 e RNF01–RNF05), Backlog do Produto com 20 histórias priorizadas por MoSCoW, Sprint Planning e Daily Scrum registrados no GitHub.
 - **Pontos fortes:** Documentação consistente com rastreabilidade entre artefatos; protótipo navegável validado com a escola parceira desde o início.
 - **Pontos fracos:** Definição técnica não formalizada nessa sprint; padrões de nomenclatura não combinados previamente geraram retrabalho na Sprint 2.
 
 ### Sprint 2 — Implementação Incremental
+- **Foco:** Arquitetura e prototipagem de alta fidelidade.
 - **Principais entregas:** Documento Técnico com stack e arquitetura MVC; 4 histórias implementadas no protótipo (US07, US08, US09, US12); Pair Programming em 4 pares; checklist da sprint registrado em `docs/sprint2/checklist-sprint2.md`.
 - **Pontos fortes:** Pair Programming funcionou bem; decisões técnicas registradas com justificativas e alternativas descartadas.
 - **Pontos fracos:** Padronização de nomenclatura precisou ser alinhada no início da sprint, atrasando o começo; algumas issues precisaram ser ajustadas depois de criadas.
 
 ### Sprint de Refinamento — Validação e Ajustes
+- **Foco:** Usabilidade e ajustes finos.
 - **Principais entregas:** Teste de Usabilidade com roteiro estruturado; Relatório de Análise Crítica; 5 ajustes implementados no protótipo (RF-A1 a RF-A5); Documento de Refino em `docs/usabilidade/refino-da-solucao.md`; Business Model Canvas; Diagramas UML (Casos de Uso e Classes).
 - **Pontos fortes:** Feedback real da escola parceira incorporado diretamente nos ajustes; rastreabilidade mantida com issues para cada melhoria realizada.
 - **Pontos fracos:** Formulário de usabilidade não respondido por todos os membros do Grêmio a tempo; demo em vídeo ainda pendente de gravação e publicação.
