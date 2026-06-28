@@ -60,7 +60,7 @@ Durante o semestre, a equipe produziu uma documentação completa e consistente,
 Esse semestre ensinou que construir software de qualidade começa muito antes do primeiro linha de código. Alguns aprendizados que a equipe leva para os próximos semestres:
 
 **Sobre o produto:**
-Validar com usuários reais desde o início faz toda a diferença. As melhorias mais impactantes que fizemos no protótipo — o banner de votação ativa, os textos de apoio e a reestruturação da ouvidoria — não vieram da nossa cabeça. Vieram de conversar com quem vai usar o sistema de verdade.
+Validar com usuários reais desde o início faz toda a diferença. As melhorias mais impactantes que fizemos no protótipo o banner de votação ativa, os textos de apoio e a reestruturação da ouvidoria não vieram da nossa cabeça. Vieram de conversar com quem vai usar o sistema de verdade.
 
 **Sobre o processo:**
 Aplicar Scrum em um semestre de documentação pareceu estranho no começo, mas funcionou. Ter sprints definidas, backlog priorizado, daily scrums e retrospectiva fez com que a equipe sempre soubesse o que estava fazendo, por que estava fazendo e o que vinha a seguir. A metodologia não é sobre código, é sobre organização e colaboração.
@@ -70,6 +70,14 @@ Pair Programming mostrou que duas cabeças pensam melhor que uma, e que a revis�
 
 **Sobre documentação:**
 Rastreabilidade não é burocracia. Manter os mesmos IDs em todos os artefatos e registrar cada decisão no momento em que foi tomada fez com que qualquer membro da equipe, ou qualquer pessoa de fora, conseguisse entender o estado do projeto sem precisar perguntar nada a ninguém.
+
+**O que funcionou bem:**
+- Abordagem Mobile-First: Focar no navegador do celular foi a decisão mais estratégica, garantindo que a plataforma seja acessível de qualquer dispositivo.
+- Validação Constante: Trazer o feedback do Grêmio para dentro do Figma evitou que desenvolvêssemos funções inúteis.
+
+**O que poderia ser diferente:**
+- Gestão de Tempo Inicial: No início da Sprint 1, subestimamos o tempo de escrita dos requisitos. Se pudéssemos reiniciar, teríamos começado o detalhamento das Histórias de Usuário uma semana antes para evitar sobrecarga no final da sprint.
+- Exploração de Tecnologias: Poderíamos ter testado ferramentas de prototipagem de baixa fidelidade antes de ir direto para o Figma, o que teria agilizado o processo de ideias inicial.
 
 ---
 
