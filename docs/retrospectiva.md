@@ -6,6 +6,8 @@ Equipe: Fred Gabriel, Giovani Silva, Lucas de Jesus, Gustavo Barbosa, Guilherme 
 
 Projeto: Grêmio Digital — Plataforma web para gestão do Grêmio Estudantil
 
+Escola Parceira: CEM Paulo Freire
+
 ---
 
 ## 1. Aprendizados
