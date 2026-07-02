@@ -157,7 +157,6 @@ Projeto desenvolvido pelos alunos do **3º Semestre de Análise e Desenvolviment
 
 - **60%** de participação dos alunos na primeira votação realizada na escola parceira.
 - **100%** das notícias oficiais centralizadas na plataforma.
-- Página de avisos carregando em menos de **2 segundos** em **conexão 4G**.
 - Pelo menos **70%** dos alunos que testarem o sistema avaliando a experiência como boa ou ótima em questionário pós-uso.
 - Interface funcionando corretamente em dispositivos com tela entre **320px e 768px**.
 - **Zero ocorrências** de votos duplicados ou perdidos durante os testes.
