@@ -149,7 +149,7 @@ Projeto desenvolvido pelos alunos do **3º Semestre de Análise e Desenvolviment
 
 ### 🎓 Orientação Acadêmica
 
-**Prof.ª Kadidja Valeria Reginaldo de Oliveira**
+**Prof.ª Kadidja Valeria Reginaldo de Oliveira e Prof.ª Adriana Falcomer Pontes**
 
 ---
 
