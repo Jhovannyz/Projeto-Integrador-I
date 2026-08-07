@@ -137,7 +137,7 @@ Este projeto será desenvolvido utilizando metodologias ágeis (**Scrum**) e foc
 
 ## 👥 Equipe
 
-Projeto desenvolvido pelos alunos do **3º Semestre de Análise e Desenvolvimento de Sistemas — UniCEUB**.
+Projeto desenvolvido pelos alunos do **4º Semestre de Análise e Desenvolvimento de Sistemas — UniCEUB**.
 
 | Integrante | GitHub |
 |------------|---------|
