@@ -6,15 +6,15 @@
 
 **Projeto:** [Protótipo navegável](https://sharp-set-73507180.figma.site/login) (Figma)
 
-**Usuário/Convidado:** Integrantes do Grêmio Estudantil
+**Usuário/Convidado:** Supervisor e Integrantes do Grêmio Estudantil do CEM Paulo Freire
 
 ---
 
 ## 1. Contexto da Avaliação
 
 - **Objetivo do teste:** Avaliar a clareza do fluxo de login por matrícula, a facilidade de navegação até o mural e a votação, e o tempo de resposta percebido entre as telas do protótipo.
-- **Tipo de teste:** Teste online, formulário com as perguntas do relatório crítico enviados junto com o protótipo para os integrantes do Grêmio Estudantil do Paulo Freire.
-- **Duração:** [15 minutos]
+- **Tipo de teste:** Teste online, formulário com as perguntas do relatório crítico enviados junto com o protótipo para o Supervisor os integrantes do Grêmio Estudantil do Paulo Freire.
+- **Duração:** [20 minutos]
 - **Ferramentas utilizadas:** Figma (protótipo navegável) e Google Forms (formulário com perguntas de teste de usabilidade, disponível em: [Formulário - Teste de Usabilidade](https://forms.gle/9nDyoop1thS4iCMz9)).
 
 ---
