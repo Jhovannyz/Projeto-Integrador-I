@@ -4,7 +4,7 @@
 
 **Equipe:** Grêmio Digital
 
-**Usuário/Convidado:** [Integrantes do Grêmio Estudantil]
+**Usuário/Convidado:** [Supervisor e Integrantes do Grêmio Estudantil do CEM Paulo Freire]
 
 **Protótipo testado:** https://sharp-set-73507180.figma.site/login
 
