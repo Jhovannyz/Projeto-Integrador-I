@@ -21,12 +21,12 @@
 - [Sobre o Projeto](#sobre-o-projeto)
 - [Funcionalidades](#funcionalidades)
 - [Protótipo](#protótipo)
-- [Como Executar](#-como-executar)
-- [Estrutura do Projeto](#-estrutura-do-projeto)
+- [Como Executar](#como-executar)
+- [Estrutura do Projeto](#estrutura-do-projeto)
 - [Tecnologias](#tecnologias)
-- [Equipe](#-equipe)
+- [Equipe](#equipe)
 - [Métricas de Sucesso](#métricas-de-sucesso-do-mvp)
-- [Documentação](#-documentação-central)
+- [Documentação](#documentação-central)
 
 ---
 
@@ -141,11 +141,11 @@ Projeto sendo desenvolvido pelos alunos do **4º Semestre de Análise e Desenvol
 
 | Integrante | GitHub |
 |------------|---------|
-| Giovani Silva | @Jhovannyz |
-| Guilherme Krinski | @Guilhermekrinski |
-| Gustavo Barbosa | @GustwvoB |
-| Fred Gabriel | @DevFredCardoso |
-| Lucas de Jesus | @LucasJesusSV |
+| Giovani Silva | [@Jhovannyz](https://github.com/Jhovannyz) |
+| Guilherme Krinski | [@Guilhermekrinski](https://github.com/Guilhermekrinski) |
+| Gustavo Barbosa | [@GustwvoB](https://github.com/GustwvoB) |
+| Fred Gabriel | [@DevFredCardoso](https://github.com/DevFredCardoso) |
+| Lucas de Jesus | [@LucasJesusSV](https://github.com/LucasJesusSV) |
 
 ### Orientação Acadêmica
 
