@@ -16,7 +16,7 @@
 
 ---
 
-## 📑 Sumário
+## Sumário
 
 - [Sobre o Projeto](#sobre-o-projeto)
 - [Funcionalidades](#funcionalidades)
@@ -108,13 +108,13 @@ Acesse o protótipo interativo clicando no link abaixo:
 
 ---
 
-## 📰 Como Executar
+## Como Executar
 
 > **Em Breve!**
 
 ---
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 > **Em Breve!**
 
@@ -135,7 +135,7 @@ Este projeto será desenvolvido utilizando metodologias ágeis (**Scrum**) e foc
 
 ---
 
-## 👥 Equipe
+## Equipe
 
 Projeto sendo desenvolvido pelos alunos do **4º Semestre de Análise e Desenvolvimento de Sistemas — UniCEUB**.
 
@@ -147,7 +147,7 @@ Projeto sendo desenvolvido pelos alunos do **4º Semestre de Análise e Desenvol
 | Fred Gabriel | @DevFredCardoso |
 | Lucas de Jesus | @LucasJesusSV |
 
-### 🎓 Orientação Acadêmica
+### Orientação Acadêmica
 
 **Prof.ª Kadidja Valeria Reginaldo de Oliveira e Prof.ª Adriana Falcomer Pontes**
 
@@ -164,7 +164,7 @@ Projeto sendo desenvolvido pelos alunos do **4º Semestre de Análise e Desenvol
 
 ---
 
-## 📄 Documentação Central: 
+## Documentação Central: 
 A documentação completa do projeto pode ser acessada através do link:
 
 > **[Documentação Grêmio Digital](https://gremiodigital-documentacao.netlify.app/)**
